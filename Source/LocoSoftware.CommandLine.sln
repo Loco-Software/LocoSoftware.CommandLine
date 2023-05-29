@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocoSoftware.CommandLine.Core", "LocoSoftware.CommandLine.Core\LocoSoftware.CommandLine.Core.csproj", "{61B7F8C5-A0CF-4B3E-A26C-927DF3A6D3D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocOSoftware.CommandLine.Core.Testing", "LocoSoftware.CommandLine.Core.Testing\LocOSoftware.CommandLine.Core.Testing.csproj", "{AEC65659-9411-42D7-B715-36A4D3F349DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B7F8C5-A0CF-4B3E-A26C-927DF3A6D3D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B7F8C5-A0CF-4B3E-A26C-927DF3A6D3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B7F8C5-A0CF-4B3E-A26C-927DF3A6D3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B7F8C5-A0CF-4B3E-A26C-927DF3A6D3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC65659-9411-42D7-B715-36A4D3F349DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC65659-9411-42D7-B715-36A4D3F349DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC65659-9411-42D7-B715-36A4D3F349DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC65659-9411-42D7-B715-36A4D3F349DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
